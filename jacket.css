@@ -1,0 +1,29 @@
+.container-top{
+    float:left;
+    margin-right: 90px;
+} 
+.container-info{
+  padding-top: 200px;
+  position: relative;
+}
+
+.container-cart{
+    margin-right: 708px;
+    float:right;
+    width:200px;
+    height:200px;
+    border:1px solid black;
+}
+#cart{
+   text-align: center;
+   margin-top: 85px;
+}
+button{
+    margin-top: 30px;
+    padding: 10px;
+    background-color: orange;
+    color:white;
+    border: none;
+    border-radius: 11px;
+
+}
